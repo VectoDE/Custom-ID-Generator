@@ -1,0 +1,29 @@
+{
+    "name": "custom-id-generator",
+    "version": "1.0.2",
+    "description": "Ein benutzerdefiniertes ID-Generator-NPM-Package, das Entwicklern ermöglicht, die Struktur der IDs selbst zu wählen und Presets zu setzen.",
+    "main": "index.js",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/VectoDE"
+    },
+    "scripts": {
+        "test": "node node test.test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/VectoDE/Custom-ID-Generator.git"
+    },
+    "keywords": [
+        "id",
+        "generator",
+        "custom",
+        "preset",
+        "npm"
+    ],
+    "author": "Vecto. (Tim Hauke)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/VectoDE/Custom-ID-Generator/issues"
+    },
+    "homepage": "https://github.com/VectoDE/Custom-ID-Generator#readme"
+}
