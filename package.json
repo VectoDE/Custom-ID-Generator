@@ -1,6 +1,6 @@
 {
     "name": "custom-id-generator",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Ein benutzerdefiniertes ID-Generator-NPM-Package, das Entwicklern ermöglicht, die Struktur der IDs selbst zu wählen und Presets zu setzen.",
     "main": "index.js",
     "publishConfig": {
