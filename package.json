@@ -7,7 +7,7 @@
         "registry": "https://npm.pkg.github.com/vectode"
     },
     "scripts": {
-        "test": "node node test.test.js"
+        "test": "node test.test.js"
     },
     "repository": {
         "type": "git",
