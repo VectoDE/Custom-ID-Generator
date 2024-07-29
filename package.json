@@ -4,7 +4,7 @@
     "description": "Ein benutzerdefiniertes ID-Generator-NPM-Package, das Entwicklern ermöglicht, die Struktur der IDs selbst zu wählen und Presets zu setzen.",
     "main": "index.js",
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
+        "registry": "https://npm.pkg.github.com/vectode"
     },
     "scripts": {
         "test": "node test.test.js"
